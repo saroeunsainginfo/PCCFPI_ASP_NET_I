@@ -1,0 +1,7 @@
+Write the example of action method and action verb and presentation that with real asp.net mvc project
+action method: view  result, empty result, content result, file content result, javascript result, json result, redirecr result, redirect to route result, partial view result, http unauthorized result.
+
+action methode with:
+1. action name.
+2. non action
+3. actoion verb: post, get, put, head, delete, option , pathch
